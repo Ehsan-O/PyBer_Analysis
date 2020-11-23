@@ -94,7 +94,7 @@ Finally a line chart was plotted based on the data presented in the table above 
 </center>
 &nbsp;
 
-
+The code we wrote for this analysis can be seen in ["PyBer_Challenge.ipynb"](PyBer_Challenge.ipynb)
 
 ### **Conclusion**
 ["Fig. 6: PyBer data summary for each city type"](#fig6) illustrates that:
